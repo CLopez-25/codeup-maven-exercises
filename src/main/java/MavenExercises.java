@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import org.apache.commons.lang3.StringUtils;
 
-public class MavenExercise {
+public class MavenExercises {
 
     public static void main(String[] args) {
         // scanner for asking the user for input:
