@@ -50,6 +50,14 @@ ArrayList<Integer> arrayList2 = new ArrayList<>();
     }
 
     @Test
+    public void testCodeup(){
+        String codeup = "codeup";
+        String codeup2 = "codeUp";
+
+        assertNotEquals(codeup, codeup2);
+    }
+
+    @Test
     public void testsLanguage(){
         List<String> languages = new ArrayList<>();
         List<String> moreLanguages = new ArrayList<>();
